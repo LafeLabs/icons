@@ -1,0 +1,1 @@
+{"w":0.752,"x":0.12342857142857143,"y":0.112,"angle":0,"src":"http://localhost/iconsymbols/edit.svg"}
